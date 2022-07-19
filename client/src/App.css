@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+ 
+}
+
+.App-logo {
+  height: 20vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+td{
+ border: solid 1px black;
+}
+table{
+  margin: 0 auto;
+ 
+}
+
+.voters {
+  margin-top: 1%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: navy;
+}
+
+.input {
+  margin-bottom: 0.5%;
+}
+
+.status {
+  margin-right: 1%;
+}
+
+.btn {
+  margin-bottom: 0.5%;
+}
+
